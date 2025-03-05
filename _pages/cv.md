@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* BTech, Indian Institute of Technology Guwahati, 2026 (expected)
+* Senior Secondary Schooling, Kendriya Vidyalaya Ballygunge, 2022
+* Secondary Schooling, Kendriya Vidyalaya Ballygunge, 2020
 
 Work experience
 ======
@@ -34,31 +34,32 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Programming**: Python, C, C++, R*  
+- **ML Frameworks**: TensorFlow*, PyTorch*, JAX*, Sklearn, Numpy, Pandas, Pyspark, LangChain, LLamaIndex,  
+  RAG, LORA, QLORA, HuggingFace*, AutoML Frameworks, OpenCV  
+- **Database Management**: SQL, Excel, MongoDB*  
+- **Technical**: Data Structures and Algorithms, Machine Learning, Deep Learning, Video & Image Processing,  
+  Computer Vision, NLP, Generative AI, LLM  
 
-Publications
+(* Elementary proficiency)
+
+Key Courses Taken
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+- **Machine Learning**: Pattern Recognition and Machine Learning
+- **Mathematics**: Linear Algebra, Real Analysis, Complex Analysis, Differential Calculus  
+- **MOOCs**:  
+  - Summer Analytics 2023  
+  - Coursera DL Specialization Courses  
+  - Stanford CS224N: Natural Language Processing with Deep Learning*  
+  - Stanford CS229: Machine Learning*  
+  (*YouTube lectures)  
+
+Positions of Responsibility
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+- **Autonomous Vehicle and Operations Head**, Automobile Club, IIT Guwahati (Apr. 2024 - Apr. 2025)  
+- **Core Team**, Consulting and Analytics Club, IIT Guwahati (Apr. 2024 - Apr. 2025)  
+
+Achievements
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Kaggle Notebook Master**: Consistently achieving a global Notebook and Dataset ranking within the top 200 (Current)  
+- **Cascade Cup Finalist**: 5th Rank in Cascade Cup Hackathon among 40,000+ participating teams (2023)  
