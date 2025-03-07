@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+![language models for social good image](https://github.com/user-attachments/assets/0f8c3a1c-a705-4cd8-aeb6-e82b355b46ec){: .align-right width="300px"}
 - 🎓 I am a pre-final year student at IIT Guwahati.  
 - 🤖 My research interests focus on developing language models for social good.  
 - 🚀 Currently, I am exploring PPO, GRPO, agentic AI, and statistical learning while working on end-to-end LLM applications. 
